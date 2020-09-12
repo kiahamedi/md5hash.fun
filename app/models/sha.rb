@@ -1,0 +1,2 @@
+class Sha < ApplicationRecord
+end
